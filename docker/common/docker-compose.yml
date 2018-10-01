@@ -4,3 +4,4 @@ services:
       image: johncarnell/tmx-simple-service:chapter1
       ports:
         - "8080:8080"
+        - "5005:5005"
